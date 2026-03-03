@@ -1,4 +1,7 @@
 # 编译产物
+bin/
+server
+client
 *.exe
 *.exe~
 *.dll
